@@ -1,0 +1,124 @@
+<mxfile host="65bd71144e">
+    <diagram id="nBG3___FSJtVOvI4y7xp" name="Page-1">
+        <mxGraphModel dx="1127" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-3" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-1" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-11" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-1" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-10" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-12" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-1" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-9" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-13" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-1" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-9" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-14" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-1" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-15" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-1" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-16" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-1" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-32" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-1" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=12;" value="بیمار" vertex="1">
+                    <mxGeometry height="60" width="120" x="210" y="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-19" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-2" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-20" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-2" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-18" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" value="نام" vertex="1">
+                    <mxGeometry height="80" width="80" x="330" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" value="علت مراجعه" vertex="1">
+                    <mxGeometry height="80" width="80" x="280" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" value="نوع بیمه" vertex="1">
+                    <mxGeometry height="80" width="80" x="180" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" value="سابقه" vertex="1">
+                    <mxGeometry height="80" width="80" x="80" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" value="کد ملی" vertex="1">
+                    <mxGeometry height="80" width="80" x="100" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" value="سن" vertex="1">
+                    <mxGeometry height="80" width="80" x="200" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" value="اسم" vertex="1">
+                    <mxGeometry height="80" width="80" x="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" value="نام خانوادگی" vertex="1">
+                    <mxGeometry height="80" width="80" x="360" y="-50" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-27" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-21" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-29" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-21" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-25" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-30" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-21" style="edgeStyle=none;html=1;" target="vWZn2IzmvofoqvHlPKwi-26" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-33" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-21" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vWZn2IzmvofoqvHlPKwi-31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="پزشک" vertex="1">
+                    <mxGeometry height="60" width="120" x="760" y="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-34" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-22" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vWZn2IzmvofoqvHlPKwi-31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="منشی" vertex="1">
+                    <mxGeometry height="60" width="120" x="520" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;" value="نام" vertex="1">
+                    <mxGeometry height="80" width="80" x="870" y="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;" value="کد ملی" vertex="1">
+                    <mxGeometry height="80" width="80" x="740" y="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;" value="کد نظام" vertex="1">
+                    <mxGeometry height="80" width="80" x="930" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;" value="تخصص" vertex="1">
+                    <mxGeometry height="80" width="80" x="790" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-28" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-21" style="edgeStyle=none;html=1;entryX=0.375;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" target="vWZn2IzmvofoqvHlPKwi-23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-31" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="ویزیت" vertex="1">
+                    <mxGeometry height="80" width="80" x="540" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n" vertex="1">
+                    <mxGeometry height="30" width="60" x="670" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n" vertex="1">
+                    <mxGeometry height="30" width="60" x="395" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n" vertex="1">
+                    <mxGeometry height="30" width="60" x="660" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n" vertex="1">
+                    <mxGeometry height="30" width="60" x="570" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+                    <mxGeometry height="80" width="80" x="620" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="vWZn2IzmvofoqvHlPKwi-42" edge="1" parent="1" source="vWZn2IzmvofoqvHlPKwi-31" style="edgeStyle=none;html=1;entryX=0.288;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" target="vWZn2IzmvofoqvHlPKwi-41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
